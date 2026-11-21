@@ -1,0 +1,6 @@
+{
+  "name": "Detective Academy",
+  "description": "An interactive educational mystery-solving adventure game combining Maths, Science, English, and Logical Reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
